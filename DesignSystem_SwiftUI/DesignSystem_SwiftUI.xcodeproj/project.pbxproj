@@ -15,6 +15,7 @@
 		B98741BA2E97AC6F00B1ABF6 /* DesignSystem_SwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741B72E97AC6F00B1ABF6 /* DesignSystem_SwiftUIUITests.swift */; };
 		B98741BB2E97AC6F00B1ABF6 /* DesignSystem_SwiftUIUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741B82E97AC6F00B1ABF6 /* DesignSystem_SwiftUIUITestsLaunchTests.swift */; };
 		B98741BD2E97AFE100B1ABF6 /* Lecture0.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741BC2E97AFE100B1ABF6 /* Lecture0.swift */; };
+		B98741BF2E97CCBA00B1ABF6 /* Lecture1.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741BE2E97CCBA00B1ABF6 /* Lecture1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		B98741B72E97AC6F00B1ABF6 /* DesignSystem_SwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignSystem_SwiftUIUITests.swift; sourceTree = "<group>"; };
 		B98741B82E97AC6F00B1ABF6 /* DesignSystem_SwiftUIUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignSystem_SwiftUIUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		B98741BC2E97AFE100B1ABF6 /* Lecture0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lecture0.swift; sourceTree = "<group>"; };
+		B98741BE2E97CCBA00B1ABF6 /* Lecture1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lecture1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				B98741AE2E97AC6200B1ABF6 /* DesignSystem_SwiftUIApp.swift */,
 				B98741AD2E97AC6200B1ABF6 /* ContentView.swift */,
 				B98741BC2E97AFE100B1ABF6 /* Lecture0.swift */,
+				B98741BE2E97CCBA00B1ABF6 /* Lecture1.swift */,
 				B98741AB2E97AC6200B1ABF6 /* Preview Content */,
 				B98741AC2E97AC6200B1ABF6 /* Assets.xcassets */,
 			);
@@ -269,6 +272,7 @@
 			files = (
 				B98741B02E97AC6200B1ABF6 /* ContentView.swift in Sources */,
 				B98741B12E97AC6200B1ABF6 /* DesignSystem_SwiftUIApp.swift in Sources */,
+				B98741BF2E97CCBA00B1ABF6 /* Lecture1.swift in Sources */,
 				B98741BD2E97AFE100B1ABF6 /* Lecture0.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
