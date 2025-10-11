@@ -1,5 +1,5 @@
 //
-//  Lecture2.swift
+//  Lecture2-Chip.swift
 //  DesignSystem_SwiftUI
 //
 //  Created by 윤병일 on 10/9/25.

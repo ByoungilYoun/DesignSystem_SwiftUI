@@ -1,5 +1,5 @@
 //
-//  Lecture1.swift
+//  Lecture1-Text.swift
 //  DesignSystem_SwiftUI
 //
 //  Created by 윤병일 on 10/9/25.
