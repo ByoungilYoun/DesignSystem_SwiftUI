@@ -21,6 +21,7 @@
 		B98741C72E9AA66C00B1ABF6 /* Lecture3-Divider.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741C62E9AA66C00B1ABF6 /* Lecture3-Divider.swift */; };
 		B98741C92E9AADA900B1ABF6 /* Lecture4-ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741C82E9AADA900B1ABF6 /* Lecture4-ProgressBar.swift */; };
 		B98741CB2E9D44DB00B1ABF6 /* Lecture5-Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741CA2E9D44DB00B1ABF6 /* Lecture5-Button.swift */; };
+		B98741CD2E9E8FE700B1ABF6 /* Lecture6-TextEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741CC2E9E8FE700B1ABF6 /* Lecture6-TextEditor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		B98741C62E9AA66C00B1ABF6 /* Lecture3-Divider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lecture3-Divider.swift"; sourceTree = "<group>"; };
 		B98741C82E9AADA900B1ABF6 /* Lecture4-ProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lecture4-ProgressBar.swift"; sourceTree = "<group>"; };
 		B98741CA2E9D44DB00B1ABF6 /* Lecture5-Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lecture5-Button.swift"; sourceTree = "<group>"; };
+		B98741CC2E9E8FE700B1ABF6 /* Lecture6-TextEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lecture6-TextEditor.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +126,7 @@
 				B98741C62E9AA66C00B1ABF6 /* Lecture3-Divider.swift */,
 				B98741C82E9AADA900B1ABF6 /* Lecture4-ProgressBar.swift */,
 				B98741CA2E9D44DB00B1ABF6 /* Lecture5-Button.swift */,
+				B98741CC2E9E8FE700B1ABF6 /* Lecture6-TextEditor.swift */,
 				B98741C22E9AA10D00B1ABF6 /* MyColor.swift */,
 				B98741AB2E97AC6200B1ABF6 /* Preview Content */,
 				B98741AC2E97AC6200B1ABF6 /* Assets.xcassets */,
@@ -290,6 +293,7 @@
 				B98741CB2E9D44DB00B1ABF6 /* Lecture5-Button.swift in Sources */,
 				B98741BF2E97CCBA00B1ABF6 /* Lecture1-Text.swift in Sources */,
 				B98741BD2E97AFE100B1ABF6 /* Lecture0.swift in Sources */,
+				B98741CD2E9E8FE700B1ABF6 /* Lecture6-TextEditor.swift in Sources */,
 				B98741C92E9AADA900B1ABF6 /* Lecture4-ProgressBar.swift in Sources */,
 				B98741C12E97D2EA00B1ABF6 /* Lecture2-Chip.swift in Sources */,
 				B98741C72E9AA66C00B1ABF6 /* Lecture3-Divider.swift in Sources */,
