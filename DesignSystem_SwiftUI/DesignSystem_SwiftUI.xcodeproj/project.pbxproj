@@ -23,6 +23,7 @@
 		B98741CB2E9D44DB00B1ABF6 /* Lecture5-Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741CA2E9D44DB00B1ABF6 /* Lecture5-Button.swift */; };
 		B98741CD2E9E8FE700B1ABF6 /* Lecture6-TextEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741CC2E9E8FE700B1ABF6 /* Lecture6-TextEditor.swift */; };
 		B98741CF2E9E976000B1ABF6 /* Lecture7-Stepper&Toggle.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741CE2E9E976000B1ABF6 /* Lecture7-Stepper&Toggle.swift */; };
+		B98741D12E9FEF6E00B1ABF6 /* Lecture8-DropDownSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741D02E9FEF6E00B1ABF6 /* Lecture8-DropDownSelector.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		B98741CA2E9D44DB00B1ABF6 /* Lecture5-Button.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lecture5-Button.swift"; sourceTree = "<group>"; };
 		B98741CC2E9E8FE700B1ABF6 /* Lecture6-TextEditor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lecture6-TextEditor.swift"; sourceTree = "<group>"; };
 		B98741CE2E9E976000B1ABF6 /* Lecture7-Stepper&Toggle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lecture7-Stepper&Toggle.swift"; sourceTree = "<group>"; };
+		B98741D02E9FEF6E00B1ABF6 /* Lecture8-DropDownSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lecture8-DropDownSelector.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,6 +132,7 @@
 				B98741CA2E9D44DB00B1ABF6 /* Lecture5-Button.swift */,
 				B98741CC2E9E8FE700B1ABF6 /* Lecture6-TextEditor.swift */,
 				B98741CE2E9E976000B1ABF6 /* Lecture7-Stepper&Toggle.swift */,
+				B98741D02E9FEF6E00B1ABF6 /* Lecture8-DropDownSelector.swift */,
 				B98741C22E9AA10D00B1ABF6 /* MyColor.swift */,
 				B98741AB2E97AC6200B1ABF6 /* Preview Content */,
 				B98741AC2E97AC6200B1ABF6 /* Assets.xcassets */,
@@ -296,6 +299,7 @@
 				B98741B12E97AC6200B1ABF6 /* DesignSystem_SwiftUIApp.swift in Sources */,
 				B98741CB2E9D44DB00B1ABF6 /* Lecture5-Button.swift in Sources */,
 				B98741BF2E97CCBA00B1ABF6 /* Lecture1-Text.swift in Sources */,
+				B98741D12E9FEF6E00B1ABF6 /* Lecture8-DropDownSelector.swift in Sources */,
 				B98741BD2E97AFE100B1ABF6 /* Lecture0.swift in Sources */,
 				B98741CD2E9E8FE700B1ABF6 /* Lecture6-TextEditor.swift in Sources */,
 				B98741C92E9AADA900B1ABF6 /* Lecture4-ProgressBar.swift in Sources */,
