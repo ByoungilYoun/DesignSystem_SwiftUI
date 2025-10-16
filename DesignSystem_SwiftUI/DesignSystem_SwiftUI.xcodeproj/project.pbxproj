@@ -26,6 +26,7 @@
 		B98741D12E9FEF6E00B1ABF6 /* Lecture8-DropDownSelector.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741D02E9FEF6E00B1ABF6 /* Lecture8-DropDownSelector.swift */; };
 		B98741D32EA133FE00B1ABF6 /* Lecture9-Modal.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741D22EA133FE00B1ABF6 /* Lecture9-Modal.swift */; };
 		B98741D52EA1393B00B1ABF6 /* Lecture10-Loading.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741D42EA1393B00B1ABF6 /* Lecture10-Loading.swift */; };
+		B98741D72EA13F5F00B1ABF6 /* Lecture11-Toast.swift in Sources */ = {isa = PBXBuildFile; fileRef = B98741D62EA13F5F00B1ABF6 /* Lecture11-Toast.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -68,6 +69,7 @@
 		B98741D02E9FEF6E00B1ABF6 /* Lecture8-DropDownSelector.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lecture8-DropDownSelector.swift"; sourceTree = "<group>"; };
 		B98741D22EA133FE00B1ABF6 /* Lecture9-Modal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lecture9-Modal.swift"; sourceTree = "<group>"; };
 		B98741D42EA1393B00B1ABF6 /* Lecture10-Loading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lecture10-Loading.swift"; sourceTree = "<group>"; };
+		B98741D62EA13F5F00B1ABF6 /* Lecture11-Toast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lecture11-Toast.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,6 +141,7 @@
 				B98741D02E9FEF6E00B1ABF6 /* Lecture8-DropDownSelector.swift */,
 				B98741D22EA133FE00B1ABF6 /* Lecture9-Modal.swift */,
 				B98741D42EA1393B00B1ABF6 /* Lecture10-Loading.swift */,
+				B98741D62EA13F5F00B1ABF6 /* Lecture11-Toast.swift */,
 				B98741C22E9AA10D00B1ABF6 /* MyColor.swift */,
 				B98741AB2E97AC6200B1ABF6 /* Preview Content */,
 				B98741AC2E97AC6200B1ABF6 /* Assets.xcassets */,
@@ -307,6 +310,7 @@
 				B98741BF2E97CCBA00B1ABF6 /* Lecture1-Text.swift in Sources */,
 				B98741D12E9FEF6E00B1ABF6 /* Lecture8-DropDownSelector.swift in Sources */,
 				B98741BD2E97AFE100B1ABF6 /* Lecture0.swift in Sources */,
+				B98741D72EA13F5F00B1ABF6 /* Lecture11-Toast.swift in Sources */,
 				B98741CD2E9E8FE700B1ABF6 /* Lecture6-TextEditor.swift in Sources */,
 				B98741D52EA1393B00B1ABF6 /* Lecture10-Loading.swift in Sources */,
 				B98741C92E9AADA900B1ABF6 /* Lecture4-ProgressBar.swift in Sources */,
